@@ -10,6 +10,13 @@
 <!--
 <h3> I've worked with... <h3>
 -->
+<p align="center">
+  <a href="https://twitter.com/alexlycheee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/alexlychee"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
+
+<hr>
+
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
