@@ -27,7 +27,9 @@
 
 <p align="center">                
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=Alexlychee&show_icons=true&theme=merko&include_all_commits=true" style="border-radius:40px;">
+  <!--
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexlychee&theme=merko&layout=compact" style="border-radius:40px;">
+  -->
 </p>
   
 <div style="margin-bottom: 10px"> 
