@@ -11,7 +11,8 @@ I'm currently a student pursuing my Bachelor of Computer Science from Cal State 
 
 <p align="center">
   <a href="https://www.instagram.com/alexlychee"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://twitter.com/alexlycheee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://twitter.com/alexlycheee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="mailto:alexlychee26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
 <hr>
@@ -51,6 +52,7 @@ I'm currently a student pursuing my Bachelor of Computer Science from Cal State 
   <a href="./media/resume.pdf">resumé</a>
   <img src="https://img.shields.io/badge/Updated-8--12--21-lightgrey?logoColor=red">
   -->
-  <!--Email-->
+  <!--Email
   <a>📧 You can reach me at **alexlychee26@gmail.com**</a>
+  -->
 </div> 
