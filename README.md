@@ -5,6 +5,9 @@
 <p align="center">
   <img width="900" height="300" src="https://gifimage.net/wp-content/uploads/2017/09/animated-fight-gif-3.gif">
 </p>
+<p align="center">
+I'm currently a student pursuing my Bachelor of Computer Science from Cal State University, Fullerton 🎓. I'm passionate about areas of Computer Science like Artificial Intelligence. You can find me open to new opportunities that will allow me, as a student, develop a better understanding of the technological world, and of course, sharpen my programming skills.
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/alexlychee"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
