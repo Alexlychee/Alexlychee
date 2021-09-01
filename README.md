@@ -2,12 +2,11 @@
 <h1 align="center">Hi, I'm Alex Ly 👋</h1>
 <h3 align="center">Computer Science Student and aspiring Software Engineer</h3>
 
-<!--
 <p align="center">
-  <img width="900" height="300" src="/media/githubprofilegif1.gif">
+  <img width="900" height="300" src="https://gifimage.net/wp-content/uploads/2017/09/animated-fight-gif-3.gif">
 </p>
--->
-<p align="left">
+
+<p align="center">
 <!--
 <h3> I've worked with... <h3>
 -->
