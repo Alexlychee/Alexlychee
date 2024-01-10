@@ -8,12 +8,11 @@
 <p align="center">
 I'm currently a student pursuing my Bachelor of Computer Science from Cal State University, Fullerton. I'm passionate about areas of Computer Science such as Artificial Intelligence. You can find me open to new opportunities that will allow me, as a student, develop a better understanding of the technological world, and of course, sharpen my programming skills.
 </p>
-
+<!--
 <p align="center">
-  <a href="https://www.instagram.com/alexlychee"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://twitter.com/alexlycheee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="mailto:alexlychee26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="mailto:alexkennyly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
+-->
 
 <hr>
 
@@ -36,9 +35,6 @@ I'm currently a student pursuing my Bachelor of Computer Science from Cal State 
 
 <p align="center">                
 <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=Alexlychee&show_icons=true&theme=merko&include_all_commits=true&hide=stars" style="border-radius:40px;">
-  <!--
-<img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexlychee&theme=merko&layout=compact" style="border-radius:40px;">
-  -->
 </p>
   
 <div style="margin-bottom: 10px"> 
@@ -47,12 +43,12 @@ I'm currently a student pursuing my Bachelor of Computer Science from Cal State 
   <a>✔  Some of my projects are available </a>
   <a href="https://github.com/JustinStitt?tab=repositories"> here</a>
   -->
-  <!--Resume
+  <!--Resume-
   <a>📄 Here's my </a>
   <a href="./media/resume.pdf">resumé</a>
-  <img src="https://img.shields.io/badge/Updated-8--12--21-lightgrey?logoColor=red">
   -->
-  <!--Email
-  <a>📧 You can reach me at **alexlychee26@gmail.com**</a>
-  -->
+  
+  <!--Email-->
+  <a>📧 You can reach me at **alexkennyly@gmail.com**</a>
+  
 </div> 
